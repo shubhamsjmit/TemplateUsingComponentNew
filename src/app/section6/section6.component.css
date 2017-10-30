@@ -3,22 +3,12 @@
   padding: 80px 0px;
   overflow: hidden;
 }
-
 .main_featured_content{
   margin-top: 50px;
 }
 .single_featured_area{
   padding:0;
   margin:0;
-}
-.single_featured{
-  position:relative;
-}
-.single_featured img{
-  width:100%;
-}
-.single_featured:hover .featured_overlay {
-  opacity:1;
 }
 .featured_overlay {
   position: absolute;
@@ -35,3 +25,16 @@
   margin: 21% auto;
   color:#fff;
 }
+.single_featured{
+  position:relative;
+}
+.single_featured img{
+  width:100%;
+}
+.single_featured:hover .featured_overlay {
+  opacity:1;
+}
+.featured{
+  position: relative;
+}
+

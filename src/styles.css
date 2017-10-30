@@ -1,1 +1,32 @@
-/* You can add global styles to this file, and also import other style files */
+
+body {
+  -webkit-font-smoothing: antialiased;
+  width: 100%;
+  font-size:15px;
+  background: #767676;
+  margin-right: 0px;
+}
+.preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #d5dadd;
+  height: 100%;
+  width: 100%;
+  overflow: hidden !important;
+}
+.loaded {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -moz-background-size: cover;
+  background-size: cover;
+
+}
+

@@ -1,0 +1,26 @@
+.main_banner_text_area{
+  position: relative;
+
+}
+.container{
+  margin-left: 0px;
+  margin-right: 0px;
+  border: solid;
+  padding-right: 0px;
+}
+.single_banner_text{
+  background-image: url(/assets/images/bannerbg.jpg);
+  text-align: center;
+  height: 500px;
+  width: inherit;
+  position: relative;
+  padding-top: 200px;
+}
+.separetor{
+  border-bottom: 3px solid #898989;
+  overflow: hidden;
+  padding:3px 0px;
+  width: 8%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}

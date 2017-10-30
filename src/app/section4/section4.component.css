@@ -1,0 +1,52 @@
+.separetorwhite {
+  border-bottom: 3px solid #fff;
+  overflow: hidden;
+  padding: 2px 0px;
+  width: 10%;
+  margin-bottom: 20px;
+}
+.counter_overlay{
+  padding:100px 0px;
+}
+.counter_overlay{
+  background: url(/assets/images/counterbg.jpg) no-repeat center center fixed;
+  background-size: cover;
+  padding: 200px;
+  background-color: firebrick;
+  background-blend-mode: darken;
+  height: 200px;
+  width: 100%;
+}
+.sinle_counter {
+  float: left;
+  margin-top:30px;
+}
+sinle_counter .separetorwhite {
+  border-bottom: 3px solid #fff;
+  overflow: hidden;
+  padding: 2px 0px;
+  width: 10%;
+  margin-bottom: 20px;
+  text-align: left;
+}
+.sinle_counter{
+  margin-top:20px;
+}
+.sinle_counter h4{
+  color:#fff;
+  font-family:'Roboto';
+  font-weight:300;
+}
+.sinle_counter h4 i{
+  color:#fff;
+  margin-right:10px;
+  display:inline-block;
+}
+.sinle_counter p{
+  color:#fff;
+  font-family:'Roboto';
+  font-weight:300;
+}
+.counterUp{
+  position: relative;
+}
